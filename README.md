@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**oceanzove/oceanzove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p><h1 align="left">zove</h1>
+<a href="https://discord.gg/smCDYKZUbe">
+  <img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />
+  <a href="https://t.me/hummingzove">
+  <img align="left" alt="Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />
+  </a>
+<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=oceanzove" alt="oceanzove" /> </p>
+    
+<br />
 
-Here are some ideas to get you started:
+Hi there, I'm **** developer learning [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [TypeScript](https://www.typescriptlang.org/) and [Go](https://go.dev/).
+My passion for software is to come up with ideas and bring them to life.  
+From goals: senior, polyglot programmer.
+Aslo i work in an incredibly promising young team **Alvile**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I actually write code to feed myself and my wife. If I didn't need money I would be traveling around the world with a guitar and my wife and learning Zen.*
+
+- 📫 How to reach me [email](zoveremoved-thisdisabled@yandex.ru)
+  
