@@ -5,6 +5,7 @@
   <a href="https://t.me/hummingzove">
   <img align="left" alt="Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />
   </a>
+  <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=oceanzove" alt="oceanzove" /> </p>
 
     
 <br />
