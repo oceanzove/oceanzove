@@ -17,5 +17,5 @@ Aslo i work in an incredibly promising young team **Alvile**
 
 *I actually write code to feed myself and my wife. If I didn't need money I would be traveling around the world with a guitar and my wife and know Zen.*
 
-- 📫 How to reach me [email](zoveremoved-thisdisabled@yandex.ru)
+- 📫 How to reach me zoveremoved-thisdisabled@yandex.ru
   
