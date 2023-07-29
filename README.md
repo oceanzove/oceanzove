@@ -10,7 +10,7 @@
     
 <br />
 
-Hi there, I'm **** developer learning [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [TypeScript](https://www.typescriptlang.org/) and [Go](https://go.dev/).
+Hi there, I'm **** developer learning [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [TypeScript](https://www.typescriptlang.org/).
 My passion for software is to come up with ideas and bring them to life.  
 From goals: senior, polyglot programmer.
 Aslo i work in an incredibly promising young team **Alvile**  
