@@ -1,7 +1,6 @@
 
 </p><h1 align="left">zove</h1>
-<a href="https://discord.gg/smCDYKZUbe">
-  <img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />
+
   <a href="https://t.me/hummingzove">
   <img align="left" alt="Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />
   </a>
