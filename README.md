@@ -9,7 +9,7 @@
     
 <br />
 
-Hi there, I'm front-developer learning [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [TypeScript](https://www.typescriptlang.org/).
+Hi there, I'm front-developer.
 My passion for software is to come up with ideas and bring them to life.  
 From goals: senior, polyglot programmer.
 
