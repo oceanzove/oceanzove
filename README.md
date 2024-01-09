@@ -6,6 +6,7 @@
   </a>
     
 <br />
+<br />
 
 Hi there, I'm front-developer.
 My passion for software is to come up with ideas and bring them to life.  
