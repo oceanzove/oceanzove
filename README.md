@@ -1,7 +1,7 @@
 
 </p><h1 align="left">zove</h1>
 
-  <a href="https://t.me/hummingzove">
+  <a href="https://t.me/zovedeveloper">
   <img align="left" alt="Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />
   </a>
     
