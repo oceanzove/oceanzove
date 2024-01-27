@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Hi there, I'm front-developer.
+Hi there, I'm front-developer. I'm currently learning react.
 My passion for software is to come up with ideas and bring them to life.  
 From goals: senior, polyglot programmer.
 
