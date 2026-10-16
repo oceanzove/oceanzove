@@ -8,11 +8,6 @@
 <br />
 <br />
 
-Hi there, I'm front-developer. I'm currently learning react.
-My passion for software is to come up with ideas and bring them to life.  
-From goals: senior, polyglot programmer.
-
-*I actually write code to feed myself and my wife. If I didn't need money I would be traveling around the world with a guitar and my wife and know Zen.*
 
 - 📫 How to reach me [email](mailto:zoveremoved-thisdisabled@yandex.ru)
   
